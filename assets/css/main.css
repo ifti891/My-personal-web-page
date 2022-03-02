@@ -138,6 +138,7 @@ input, select, textarea {
 				color: #666;
 			}
 
+
 	h3 {
 		font-size: 1.5em;
 	}
@@ -2200,6 +2201,24 @@ input, select, textarea {
 					border-left: 0;
 					padding-left: 0;
 					margin-left: 0;
+				}
+
+
+				#portfolio .container > .pitch {
+					margin: 0;
+					margin-top: -2em;
+					overflow: hidden;
+					padding: 4em 0;
+					/* font-size: 1.2rem; */
+					box-shadow: inset 0 1px 0 0 rgba(0, 0, 0, 0.05), inset 0 0.1em 0.1em 0 rgba(0, 0, 0, 0.025);
+					text-align: center;
+					color: rgb(14, 13, 13);
+					/* background: linear-gradient(#e9b4b4, #878fe4); */
+					/* background-image: url("images/overlay.png"); */
+				}
+
+				#portfolio .container > .pitch > .paragraphAboveInPitch {
+					padding: 0 1em 0 1em;
 				}
 
 /* Main */
