@@ -1,2 +1,2 @@
-## Link to my [Peronal Web Page](https://ifti-webdev.netlify.app/)
+## Link to my [Personal Web Page](https://ifti-webdev.netlify.app/)
  
