@@ -1779,8 +1779,8 @@ input, select, textarea {
 			/* float: inline-end; */
 			
 			
-			height: 50%;
-			width: 40%;
+			height: 40%;
+			width: 30%;
 			border-radius: 15%;
 			margin-bottom: 1em;
 			margin-left: auto;
@@ -1793,6 +1793,7 @@ input, select, textarea {
 
 		h2,.aboutPara {
 			color: black;
+			margin-top: 2%;
 		}
 
 		/* changed above this line */
