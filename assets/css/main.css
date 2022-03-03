@@ -217,6 +217,7 @@ input, select, textarea {
 		margin: 0 auto;
 		max-width: 100%;
 		width: 1400px;
+		
 	}
 
 		@media screen and (min-width: 961px) and (max-width: 1880px) {
@@ -2204,7 +2205,9 @@ input, select, textarea {
 				}
 
 
-				#portfolio .container > .pitch {
+				/* Main Pitch  below*/
+
+				#showCasePitch .pitch {
 					margin: 0;
 					margin-top: -2em;
 					overflow: hidden;
@@ -2213,18 +2216,20 @@ input, select, textarea {
 					box-shadow: inset 0 1px 0 0 rgba(0, 0, 0, 0.05), inset 0 0.1em 0.1em 0 rgba(0, 0, 0, 0.025);
 					text-align: center;
 					color: rgb(14, 13, 13);
-					/* background: linear-gradient(#e9b4b4, #878fe4); */
-					/* background-image: url("images/overlay.png"); */
+					background: linear-gradient(#f5cece, #bbc0ee);
 				}
 
-				#portfolio .container > .pitch > .paragraphAboveInPitch {
+				/* Main Pitch above */
+
+				/* #portfolio .container > .pitch > .paragraphAboveInPitch {
 					padding: 0 1em 0 1em;
-				}
+				} */
 
 /* Main */
 
 	#main {
 		margin-left: 375px;
+		
 	}
 
 		#main > section {
@@ -2272,7 +2277,16 @@ input, select, textarea {
 
 			#main > section.two {
 				background-color: #f5fafa;
+				
 			}
+
+			/* Resizing My work section */
+
+			/* #portfolio > .container {
+				display: flex;
+			} */
+
+				/* Above this lines*/
 
 			#main > section.three {
 				background-color: #ecf1f1;
