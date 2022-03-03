@@ -1794,6 +1794,18 @@ input, select, textarea {
 		h2,.aboutPara {
 			color: black;
 			margin-top: 2%;
+			color: white;
+			padding: 0 2em 0 2em;
+		}
+
+		.three > .container{
+			background: linear-gradient(150deg, rgba(14, 11, 11, 0.8), rgba(22, 18, 18, 0) 90.71%),
+            linear-gradient(200deg, rgba(12, 17, 12, 0.8), rgba(21, 31, 21, 0) 80.71%),
+            linear-gradient(336deg, rgba(25, 25, 54, 0.8), rgba(22, 22, 44, 0) 90.71%);
+			width: 100%;
+			padding: 2% 0 2% 0;
+			/* color: white; */
+			/* margin-top: 0 auto; */
 		}
 
 		/* changed above this line */
