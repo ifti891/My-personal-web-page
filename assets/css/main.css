@@ -1804,7 +1804,7 @@ input, select, textarea {
             linear-gradient(336deg, rgba(70, 70, 104, 0.8), rgba(97, 97, 141, 0) 90.71%);
 			width: 100%;
 			padding: 2% 0 2% 0;
-			border-radius: 5%;
+			border-radius: 2%;
 			/* color: white; */
 			/* margin-top: 0 auto; */
 		}
