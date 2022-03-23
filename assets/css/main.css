@@ -1799,12 +1799,12 @@ input, select, textarea {
 		}
 
 		.three > .container{
-			background: linear-gradient(150deg, rgba(159, 145, 221, 0.8), rgba(22, 18, 18, 0) 90.71%),
-            linear-gradient(200deg, rgba(56, 105, 56, 0.8), rgba(21, 31, 21, 0) 80.71%),
-            linear-gradient(336deg, rgba(70, 70, 104, 0.8), rgba(97, 97, 141, 0) 90.71%);
+			background: linear-gradient(150deg, rgba(219, 216, 230, 0.8), rgba(233, 208, 208, 0) 90.71%),
+            linear-gradient(200deg, rgba(148, 189, 148, 0.8), rgba(174, 209, 174, 0) 80.71%),
+            linear-gradient(336deg, rgba(155, 155, 180, 0.8), rgba(181, 181, 204, 0) 90.71%);
 			width: 100%;
 			padding: 2% 0 2% 0;
-			border-radius: 0.5%;
+			/* border-radius: 0.5%; */
 			/* color: white; */
 			/* margin-top: 0 auto; */
 		}
